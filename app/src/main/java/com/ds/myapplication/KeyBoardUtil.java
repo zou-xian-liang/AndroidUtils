@@ -10,7 +10,7 @@ import android.widget.EditText;
  * 键盘工具类
  *
  * 注：抽取到工具类中，在华为手机上可能会出现隐藏键盘无效的情况
- *      可将该方法直接放在键盘需要设置键盘隐藏的Activity或者Fragment中
+ *      可将该方法直接放在需要设置键盘隐藏的Activity或者Fragment中
  */
 public class KeyBoardUtil {
 
